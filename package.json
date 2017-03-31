@@ -1,7 +1,7 @@
 {
-    "name": "product-management",
+    "name": "demo-app-for-angular2",
     "version": "1.1.0",
-    "author": "Deborah Kurata",
+    "author": "Manikanta Kattamuri",
     "description": "Package for the Acme Product Management sample application",
     "scripts": {
         "build": "tsc -p src/",
